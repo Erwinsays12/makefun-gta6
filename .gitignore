@@ -1,0 +1,3 @@
+# Local build outputs from running main.ts — never part of the entry.
+out/
+out2/
